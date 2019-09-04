@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f24bf0d8-ebc9-48bb-8c9f-ad140323eed7" name="Default Changelist" comment="" />
+    <list default="true" id="f24bf0d8-ebc9-48bb-8c9f-ad140323eed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/adapter/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/AdapteeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adapter/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/LeafA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/LeafB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combination/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Aggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/AggregateImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/CustomItera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iterator/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memo/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memo/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memo/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memo/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/RestState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/WorkState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/explain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designTest/absfactory/DataAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/absfactory/DataAccess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designTest/absfactory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/absfactory/Test.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +48,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QGCKJXcTvViz8sJ0H6el7Wo503" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -30,6 +69,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="combination" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -42,13 +86,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="appearance.Test" />
+      <option name="MAIN_CLASS_NAME" value="combination.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="appearance.*" />
+          <option name="PATTERN" value="combination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,11 +101,24 @@
       </method>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observe.Test" />
+      <option name="MAIN_CLASS_NAME" value="iterator.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="observe.*" />
+          <option name="PATTERN" value="iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.Test" />
+      <module name="designTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="protype.Test" />
+      <option name="MAIN_CLASS_NAME" value="decorate.demo.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="protype.*" />
+          <option name="PATTERN" value="decorate.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +140,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module.Test" />
+      <option name="MAIN_CLASS_NAME" value="memo.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="module.*" />
+          <option name="PATTERN" value="memo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,9 +167,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
       </list>
@@ -128,11 +185,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567387480436</updated>
-      <workItem from="1567387482895" duration="32137000" />
+      <workItem from="1567387482895" duration="32553000" />
+      <workItem from="1567484420761" duration="16198000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/combination/Composite.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
