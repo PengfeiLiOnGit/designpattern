@@ -2,38 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24bf0d8-ebc9-48bb-8c9f-ad140323eed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/adapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/AdapteeImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/LeafA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/LeafB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combination/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/AggregateImple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/CustomItera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iterator/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memo/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memo/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memo/Originator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/memo/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/RestState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/WorkState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/ChatFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/PayFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/QQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/Zhifubao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bridging/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/DefaultJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/OrmImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Save.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleton/explain.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designTest/absfactory/DataAccess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/absfactory/DataAccess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designTest/absfactory/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/absfactory/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designTest/iterator/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/iterator/Test.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="combination.Test" />
       <module name="designTest" />
@@ -113,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="state.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="state.*" />
+          <option name="PATTERN" value="singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +116,11 @@
       </method>
     </configuration>
     <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decorate.demo.Test" />
+      <option name="MAIN_CLASS_NAME" value="bridging.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decorate.demo.*" />
+          <option name="PATTERN" value="bridging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="memo.Test" />
+      <option name="MAIN_CLASS_NAME" value="command.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="memo.*" />
+          <option name="PATTERN" value="command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567387480436</updated>
       <workItem from="1567387482895" duration="32553000" />
-      <workItem from="1567484420761" duration="16198000" />
+      <workItem from="1567484420761" duration="25718000" />
     </task>
     <servers />
   </component>
