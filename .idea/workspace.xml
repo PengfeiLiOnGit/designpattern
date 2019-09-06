@@ -2,27 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f24bf0d8-ebc9-48bb-8c9f-ad140323eed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bridging/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/ChatFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/PayFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/QQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/Zhifubao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridging/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/DefaultJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/OrmImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Save.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/explain.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleton/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/explain/Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/explain/Express.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/explain/ExpressEnlish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/explain/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/explain/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/Media.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/MediaImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/Something.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/SomethingA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/SomethingB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/intermediary/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Bottom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Middle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/Top.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/responsibility/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/BlackChess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/Chess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/ShareFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/WhiteChess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/share/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/Ele.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/EleA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/EleB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/FirstState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/ObjectStructure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/SecState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/designTest/visitor/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explain/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explain/Express.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explain/ExpressEnlish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explain/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/explain/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/MediaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/Something.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/SomethingA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/SomethingB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intermediary/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Bottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responsibility/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/BlackChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/ShareFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/WhiteChess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/share/explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Ele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/EleA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/EleB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/FirstState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/ObjectStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/SecState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/explain.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/designTest/iterator/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/iterator/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designTest/appearance/explain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/appearance/explain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/designTest/command/explain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/designTest/command/explain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appearance/explain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/appearance/explain.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/OrmImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/OrmImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/command/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Service.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,11 +129,11 @@
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="combination.Test" />
+      <option name="MAIN_CLASS_NAME" value="share.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="combination.*" />
+          <option name="PATTERN" value="share.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +142,24 @@
       </method>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterator.Test" />
+      <option name="MAIN_CLASS_NAME" value="explain.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="explain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="responsibility.Test" />
+      <module name="designTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="responsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,24 +168,11 @@
       </method>
     </configuration>
     <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.Test" />
+      <option name="MAIN_CLASS_NAME" value="visitor.Test" />
       <module name="designTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bridging.Test" />
-      <module name="designTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bridging.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,10 +209,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567387480436</updated>
       <workItem from="1567387482895" duration="32553000" />
-      <workItem from="1567484420761" duration="25718000" />
+      <workItem from="1567484420761" duration="47185000" />
     </task>
     <servers />
   </component>

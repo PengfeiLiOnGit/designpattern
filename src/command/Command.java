@@ -2,6 +2,7 @@ package command;
 
 /**
  * 命令抽象类
+ * 持有具体的操作
  */
 public abstract class Command<T> {
     // 引用具体操作者

@@ -3,6 +3,9 @@ package command;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 接收者，持有具体的命令
+ */
 public class Service {
     private List<Command> commands = new ArrayList<>();
 
